@@ -1,5 +1,7 @@
 # STREET SYSTEMS
 
+![Grid and Artery Systems](http://farm9.staticflickr.com/8167/7546921520_f85f3c54fb_b.jpg)
+
 *The illustration above imagines you are at home and want to get to dinner at a lovely establishment in your nearby. How does the street layout affect your (yellow) paths to dinner?*
 
 A street system is the pattern in which a city’s streets are laid out. This pattern can have a big effect on how it feels to move around in a city.
