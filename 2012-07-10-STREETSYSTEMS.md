@@ -1,10 +1,10 @@
 # STREET SYSTEMS
 
-The illustration above imagines you are at home and want to get to dinner at a lovely establishment in your nearby. How does the street layout affect your (yellow) paths to dinner?
+*The illustration above imagines you are at home and want to get to dinner at a lovely establishment in your nearby. How does the street layout affect your (yellow) paths to dinner?*
 
 A street system is the pattern in which a city’s streets are laid out. This pattern can have a big effect on how it feels to move around in a city.
 
-Two types are discuessed here: grid system, in which streets are laid out in regular (grid) pattern (excetpions here and there allowed); and an artery system, often found in suburbs, in which many roads branch off of one main road. 
+Two types are discuessed here: **grid system**, in which streets are laid out in regular (grid) pattern (excetpions here and there allowed); and an **artery system**, often found in suburbs, in which many roads branch off of one main road. 
 
 Grid systems work well in cities for many reasons. 
 
