@@ -2,6 +2,8 @@
 
 *A blog and/or soapbox created by me, [@jllord](http://twitter.com/jllord), to break down elements of the urban environment into little bitty bits.*
 
+Posts are here as separate files and my image files are here too, have at it! 
+
 
 ## MANIFESTO
 
