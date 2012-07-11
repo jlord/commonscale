@@ -12,6 +12,8 @@ Grid systems work well in cities for many reasons.
 
 - They allow for multiple routes to a destination. This means if one route is blocked you still have many ways to get where you’re going. In an artery system if something happens on the main “artery” road, everyone is stopped, without a plan B, C or D. 
 
+- Because the pattern is regular it also predictible. This makes navigating the city easier. If something is 6 blocks away, you have a sense of that distance.  
+
 - The many intersections created by a grid system means that cars will be stopping more often and driving slower in between stops. This keeps speed in central cities lower, making it a safer place for pedestrians and cyclists. 
 
 - Gridded streets create blocks which give a rhythm to a journey. If done at the right scale, this rhythm can make a trip feel shorter than it actually is, which in turn promotes trips on foot or bike. Trips on foot and bike promote health!
